@@ -1,0 +1,148 @@
+[
+  {
+    "card_id": 38,
+    "card_type": "Topic Validation",
+    "type": "interstitial",
+    "interstitial_type": "validation",
+    "icon": "handwave",
+    "headline": null,
+    "body": "<p>I’m so glad you’re here. You’re in the right place.</p>\n<p>Before we jump in, take a moment to celebrate what you’ve done. Showing up here, the effort you put into parenting day after day &#8211; it matters.</p>\n",
+    "hasSignature": true
+  },
+  {
+    "card_id": 37,
+    "card_type": "Topic Learn",
+    "type": "interstitial",
+    "interstitial_type": "transition",
+    "icon": "lightbulb",
+    "headline": "Today’s Highlight",
+    "body": "<p>Let&#8217;s review one of the key ideas from today&#8217;s Quick Start; remember, repetition is how we make new ideas more familiar &#8211; and more accessible in the moments we need them.</p>\n",
+    "hasSignature": false
+  },
+  {
+    "card_id": 36,
+    "card_type": "Topic Learn",
+    "type": "text",
+    "hasWhy": true,
+    "body": "<p>You have a good kid. Yes, we know, they’re struggling with some not-so-good behavior &#8211; and we’ll help you with that. AND, under that behavior is a good kid.</p>\n<p>Positive change starts by reminding yourself that you don’t have a difficult kid &#8211; you have a Deeply Feeling Kid.</p>\n<p>Right now, say those words: “My kid is having a hard time, not giving me a hard time” &#8211; we promise, this mindset shift will be a huge part of change.</p>\n",
+    "headerLabelPrimary": "Deeply Feeling Kids",
+    "headerLabelSecondary": "Focus",
+    "headline": "You have a good kid",
+    "whyBody": "Our mindset determines how we act – so reminding yourself that you have a Deeply Feeling Kid, not a difficult kid (and not a “bad” kid”) – is where real change begins.",
+    "whyLabel": "The Why:"
+  },
+  {
+    "card_id": 32,
+    "card_type": "community",
+    "type": "community",
+    "body": "<p>Staying connected to our partners in the midst of raising young kids can be tricky. I love the raw conversations happening here, check it out.</p>\n",
+    "headline": "Dr. Becky’s Pick of the Week",
+    "headerLabelPrimary": null,
+    "headerLabelSecondary": "Community",
+    "communitPostData": {}
+  },
+  {
+    "card_id": 67,
+    "card_type": "seasonal",
+    "type": "audio",
+    "hasWhy": false,
+    "audio": "https://cdn.simplecast.com/audio/a304b0d0-ee52-41a3-8514-a8e01ee383a3/episodes/3fedb16[%E2%80%A6]6/audio/e6eaf7f0-5647-48e3-8669-53f65c3359cc/default_tc.mp3",
+    "body": "<p>Seasonal Card: Christmas pt 1</p>\n",
+    "headerLabelPrimary": null,
+    "headerLabelSecondary": null,
+    "headline": "Seasonal Card: Christmas pt 1",
+    "whyBody": null,
+    "whyLabel": null
+  },
+  {
+    "card_id": 23,
+    "card_type": "General Validation",
+    "type": "interstitial",
+    "interstitial_type": "validation",
+    "icon": "handwave",
+    "headline": null,
+    "body": "<p>Welcome to 4-Year-Old Essentials! We’ve identified the skills your 4-year-old needs to build during this stage of life &#8211; and we’ll share them in daily, bite-sized cards that take under 3 minutes to complete.</p>\n<p>And if you’re wondering what you need to do &#8211; just show up here each day. We’ll do the rest.</p>\n<p>Let’s get started.</p>\n",
+    "hasSignature": true
+  },
+  {
+    "card_id": 22,
+    "card_type": "GI Essentials",
+    "type": "interstitial",
+    "interstitial_type": "transition",
+    "icon": "lightbulb",
+    "headline": "This Week...",
+    "body": "<p>This week we’ll focus on boundaries. Developing sturdy boundaries at the 4-year-old-stage leads to…<br />\n1. Better behavior<br />\n2. More connection<br />\n3. Less yelling in the home</p>\n",
+    "hasSignature": false
+  },
+  {
+    "card_id": 21,
+    "card_type": "General Validation",
+    "type": "text",
+    "hasWhy": true,
+    "body": "<p>When it comes to setting boundaries, remember this: Parents are allowed to make decisions they believe are right (that’s your boundary!) AND kids are allowed to have reactions to those decisions (that’s their feelings!); one of these isn&#8217;t more “right” than the other, both are equally true.</p>\n",
+    "headerLabelPrimary": "Boundaries- Big Idea",
+    "headerLabelSecondary": "4-year-old Essentials",
+    "headline": "The Truth About Boundaries",
+    "whyBody": "Knowing that our job is to set boundaries and our kid’s job is to express their feelings about those decisions is what allows us to stay grounded and feel good about our parenting through tough moments. Just like sturdy pilots can’t always avoid turbulence, parents can’t always avoid tantrums or challenging behavior.",
+    "whyLabel": "The Why:"
+  },
+  {
+    "card_id": 66,
+    "card_type": "seasonal",
+    "type": "text",
+    "hasWhy": false,
+    "body": "<p>Seasonal Card: Christmas pt 2</p>\n",
+    "headerLabelPrimary": null,
+    "headerLabelSecondary": null,
+    "headline": "Seasonal Card: Christmas pt 2",
+    "whyBody": null,
+    "whyLabel": null
+  },
+  {
+    "card_id": 64,
+    "card_type": "age",
+    "type": "text",
+    "hasWhy": false,
+    "body": "<p>Age Card: 1 yr &#8211; 2nd month</p>\n",
+    "headerLabelPrimary": null,
+    "headerLabelSecondary": null,
+    "headline": "Age Card: 1 yr - 2nd month",
+    "whyBody": null,
+    "whyLabel": null
+  },
+  {
+    "card_id": 77,
+    "card_type": "seasonal",
+    "type": "question",
+    "body": "<p>Question: where is the best pizza in the world from? </p>\n",
+    "headerLabelPrimary": "Pizza",
+    "headerLabelSecondary": "Fodd",
+    "headline": "The best pizza in the world!",
+    "answerOptions": [
+      {
+        "answer": "New York",
+        "correctAnswer": false,
+        "answerHeadline": "Wrong Answer",
+        "answerMessage": "Nope, not New York"
+      },
+      {
+        "answer": "Chicago",
+        "correctAnswer": false,
+        "answerHeadline": "Wrong Answer",
+        "answerMessage": "Nope, not Chicago"
+      },
+      {
+        "answer": "Italy",
+        "correctAnswer": false,
+        "answerHeadline": "Wrong Answer",
+        "answerMessage": "Nope, not Italy, but close"
+      },
+      {
+        "answer": "São Paulo",
+        "correctAnswer": true,
+        "answerHeadline": "Correct Answer",
+        "answerMessage": "Yes, São Paulo has the best pizza in the world!"
+      }
+    ]
+  }
+]
