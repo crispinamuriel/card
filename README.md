@@ -1,3 +1,8 @@
+# Good Inside technical assessment
+Hello this is my attempt at a technical challenge given to me by Good Inside. You can see the production deployment of this application [here.](https://good-inside-4feihpah6-crispina-muriels-projects.vercel.app/)
+
+## Info
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
