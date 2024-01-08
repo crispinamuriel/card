@@ -26,7 +26,7 @@ const Card = () => {
   // }, []);
 
   return (
-    <div className="">
+    <div className="flex min-h-screen flex-col items-center p-24">
       {data.map(item => (
         <div key={item.id} className="flex flex-col max-w-sm w-full lg:max-w-full lg:flex mb-10 max-w-lg p-6 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-70 hover:bg-slate-950">
           <span className="max-w-fit mb-2 bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded-full dark:bg-blue-900 dark:text-blue-300">{item.label}</span>
