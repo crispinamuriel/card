@@ -1,5 +1,5 @@
 # Good Inside technical assessment
-Good Inside technical chalenge using Next.js. You can visit the production deployment of this application [here.](https://good-inside-9s3l70duw-crispina-muriels-projects.vercel.app)
+Good Inside technical chalenge using Next.js. You can visit the production deployment of this application [here.](https://good-inside-ck40oyb0w-crispina-muriels-projects.vercel.app)
 
 ## Info
 
