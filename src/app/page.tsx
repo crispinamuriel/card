@@ -1,6 +1,6 @@
 'use client'
 import React, { useState, useEffect } from 'react';
-import QuizCommponent from '@/app/QuizComponent/QuizComponent';
+import QuizCommponent from '@/components/QuizComponent/QuizComponent';
 
 interface Card {
   card_id: number;
